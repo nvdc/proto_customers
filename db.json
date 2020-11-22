@@ -1,3 +1,4 @@
+{Customer:
 [
   {
     "customer_id": "5fbababa717f10b546c261ba",
@@ -25,3 +26,4 @@
     "customer_is_active": true
   }
 ]
+}
