@@ -1,29 +1,29 @@
-{Customer:
-[
-  {
-    "customer_id": "5fbababa717f10b546c261ba",
-    "customer_name": "Exoblue",
-    "customer_is_active": false
-  },
-  {
-    "customer_id": "5fbabababaa1753e1928dda1",
-    "customer_name": "Buzzopia",
-    "customer_is_active": false
-  },
-  {
-    "customer_id": "5fbababa531b49451be2becb",
-    "customer_name": "Qualitern",
-    "customer_is_active": true
-  },
-  {
-    "customer_id": "5fbababa527d1172a7fdc82d",
-    "customer_name": "Bostonic",
-    "customer_is_active": true
-  },
-  {
-    "customer_id": "5fbababa93c0cf8b83f4d7cf",
-    "customer_name": "Andryx",
-    "customer_is_active": true
-  }
+{
+  "Customer":[
+    {
+      "customer_id": "5fbababa717f10b546c261ba",
+      "customer_name": "Exoblue",
+      "customer_is_active": false
+    },
+    {
+      "customer_id": "5fbabababaa1753e1928dda1",
+      "customer_name": "Buzzopia",
+      "customer_is_active": false
+    },
+    {
+      "customer_id": "5fbababa531b49451be2becb",
+      "customer_name": "Qualitern",
+      "customer_is_active": true
+    },
+    {
+      "customer_id": "5fbababa527d1172a7fdc82d",
+      "customer_name": "Bostonic",
+      "customer_is_active": true
+    },
+    {
+      "customer_id": "5fbababa93c0cf8b83f4d7cf",
+      "customer_name": "Andryx",
+      "customer_is_active": true
+    }
 ]
 }
